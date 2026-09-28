@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fieldsvg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Field numeric svg values, ranges, and human-readable units.",
+  "bin": {
+    "fieldsvg": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fieldsvg.git"
+  },
+  "homepage": "https://theworker02.github.io/fieldsvg/",
+  "keywords": [
+    "field",
+    "svg",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
